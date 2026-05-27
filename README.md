@@ -7,6 +7,7 @@
 * **SUJITH KUMAR M** - Year 2, Computer Science and Engineering(Artificial Intelligence and Machine Learning)
 * **VIMAL RAJ K** - Year 2, Computer Science and Engineering(Artificial Intelligence and Machine Learning)
 * **MUGANBALAJI M** - Year 2, Computer Science and Engineering(Artificial Intelligence and Machine Learning)
+* **ELAVARASAN ** - Year 2, Computer Science and Engineering(Artificial Intelligence and Machine Learning)
 
 ---
 
